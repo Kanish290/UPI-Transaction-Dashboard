@@ -1,7 +1,7 @@
 🔎 Project Deep Dive & Methodology
 This section outlines the strategic approach and design rationale for the UPI Transaction Analysis Dashboard, focusing on the core business challenge, dashboard objectives, and visualization choices.
 
-1. **Business Problem: The "Why"**
+1.**Business Problem: The "Why"**
 The primary challenge is the lack of a consolidated, historical view of personal (or organizational) cash flow and spending patterns within the fast-moving UPI ecosystem.
 
 Problem: UPI apps provide immediate transaction details but lack the long-term, aggregated analysis necessary for financial planning. Users or businesses struggle to answer fundamental questions like:
@@ -14,7 +14,7 @@ Problem: UPI apps provide immediate transaction details but lack the long-term, 
 
 Need: To transform raw, dated transaction lists into clear, actionable time-series data for trend monitoring and financial health assessment.
 
-2. **Goal of the Dashboard: The "What"**
+2.**Goal of the Dashboard: The "What"**
 The core goal of this Power BI dashboard is to provide a single-source, dynamic, and intuitive platform for monitoring UPI financial health.
 
 Primary Goal: To enable users to track and forecast their liquid financial movement by clearly separating the total value of transactions from the resulting net change in the account balance over monthly and quarterly periods.

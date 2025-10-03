@@ -37,7 +37,7 @@ Visual Type	Data Represented	Why this Visual was Used
 
 **Matrix/Card (Metric)**	Total Transaction Value, Count, and Current Balance	Best for High-Level Summary. Matrix and Card visuals are placed prominently to serve as Key Performance Indicators (KPIs). They provide immediate, un-aggregated answers to the most critical, high-level questions, giving the user an instant pulse check of their finances.
 
-4. **Business Impact & Insights: The "So What"**
+4.**Business Impact & Insights: The "So What"**
 The dashboard translates data into actionable insights, providing real business/financial value:
 
 Insight Generated	Business Impact/Actionable Item
